@@ -1,0 +1,11 @@
+.center-me {
+    width: 600px;
+    margin: 0 auto;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border-radius: 16px;
+    width: auto;
+}
